@@ -1,7 +1,7 @@
 import React from 'react';
-import Head from './Head';
+// import Head from './Head';s
 function RegistrationForm() {
-        <Head/>
+        
     return (
         
         <div className="container bg-white rounded-lg p-9 shadow-md w-full sm:max-w-md content-center ml-12 ">

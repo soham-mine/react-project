@@ -1,9 +1,9 @@
 import React  from 'react';
-import Head from './Head';
+// import Head from './Head';
 
 
     function App(){
-        <Head/>
+        
             const myArray = [
                 { 'name': 'Michael', 'age': '30', 'birthdate': '11/10/1989' },
                 { 'name': 'Mila', 'age': '32', 'birthdate': '10/1/1989' },

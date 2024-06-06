@@ -1,10 +1,9 @@
 import React , {Component} from 'react';
-import Head from './Head';
+// import Head from './Head';
 
 export class Table1 extends Component {
             
     render(){
-        <Head/>
         return(
             <div className="bg-gray-100 min-h-screen flex flex-col justify-center items-center">
       <h1 className="text-3xl font-bold my-8">Styling HTML Tables with Tailwind CSS</h1>

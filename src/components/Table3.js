@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
-import Head from './Head';
+// import Head from './Head';
 
 function Table3() {
-    <Head/>
+    
   const [myArray, setMyArray] = useState([]);
 
   useEffect(() => {
